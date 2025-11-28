@@ -1,0 +1,82 @@
+[
+  {
+    "ContractKey": 2,
+    "ClientName": "Lucas Vidal",
+    "ContractIssueDate": "2021-02-22",
+    "ContractExpirationDate": "2025-12-31",
+    "SendEmail": "YES",
+    "Sent": ""
+  },
+  {
+    "ContractKey": 2,
+    "ClientName": "Clara Ríos",
+    "ContractIssueDate": "2021-02-22",
+    "ContractExpirationDate": "2046-02-21",
+    "SendEmail": "NO",
+    "Sent": ""
+  },
+  {
+    "ContractKey": 4,
+    "ClientName": "Santiago Vega",
+    "ContractIssueDate": "2025-02-22",
+    "ContractExpirationDate": "2046-02-21",
+    "SendEmail": "NO",
+    "Sent": ""
+  },
+  {
+    "ContractKey": 5,
+    "ClientName": "Tomás Serra",
+    "ContractIssueDate": "2021-02-22",
+    "ContractExpirationDate": "2046-02-21",
+    "SendEmail": "NO",
+    "Sent": ""
+  },
+  {
+    "ContractKey": 5,
+    "ClientName": "Ana Valverde",
+    "ContractIssueDate": "2021-04-01",
+    "ContractExpirationDate": "2046-02-21",
+    "SendEmail": "NO",
+    "Sent": ""
+  },
+  {
+    "ContractKey": 7,
+    "ClientName": "Martín Reyes",
+    "ContractIssueDate": "2021-02-22",
+    "ContractExpirationDate": "2046-02-21",
+    "SendEmail": "NO",
+    "Sent": ""
+  },
+  {
+    "ContractKey": 8,
+    "ClientName": "Sofía Muñoz",
+    "ContractIssueDate": "2021-02-22",
+    "ContractExpirationDate": "2046-02-21",
+    "SendEmail": "NO",
+    "Sent": ""
+  },
+  {
+    "ContractKey": 8,
+    "ClientName": "Diego Cabrera",
+    "ContractIssueDate": "2021-02-22",
+    "ContractExpirationDate": "2046-02-21",
+    "SendEmail": "NO",
+    "Sent": ""
+  },
+  {
+    "ContractKey": 8,
+    "ClientName": "Valentina Duarte",
+    "ContractIssueDate": "2021-02-22",
+    "ContractExpirationDate": "2046-02-22",
+    "SendEmail": "NO",
+    "Sent": ""
+  },
+  {
+    "ContractKey": 10,
+    "ClientName": "Ignacio Ferreira",
+    "ContractIssueDate": "2021-02-22",
+    "ContractExpirationDate": "2046-02-21",
+    "SendEmail": "NO",
+    "Sent": ""
+  }
+]
